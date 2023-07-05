@@ -2,4 +2,4 @@
 
 Check Website: https://bobibanking-64e1c.web.app/ (hosting done using firebase)
 
-clone of: https://feba.bobibanking.com/default.htm
+Clone of: https://feba.bobibanking.com/default.htm
